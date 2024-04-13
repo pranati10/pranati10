@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Reddit Sentiment Analysis using R**
 
-- 💬 Ask me about **React, Machine Learning and Data Analysis**
+- 💬 Ask me about **Machine Learning and Data Analysis**
 
 - 📫 How to reach me **pranati1062@gmail.com**
 
