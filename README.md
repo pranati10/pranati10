@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranati Jamalpuri</h1>
-<h3 align="center">Graduate Computer Science student at CSUN with a passion for data engineering and a proven track record in project execution. Skilled in machine learning, data analytics, and software development, with a dedication to solving complex problems through innovative technological solutions.</h3>
+<h3 align="center">Graduate Computer Science student at CSUN with a passion for data science and a proven track record in project execution. Skilled in machine learning, data analytics, and software development, with a dedication to solving complex problems through innovative technological solutions.</h3>
 
 - 🔭 I’m currently working on **Reddit Sentiment Analysis using R**
 
